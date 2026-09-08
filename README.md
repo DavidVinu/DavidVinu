@@ -3,8 +3,8 @@
 Medical student at Heidelberg University. By day I learn how the body works.
 By night I teach computers to be useful to the people who treat it.
 
-Currently a student research assistant in the AI group of a university radiology
-department, where local language models turn radiology reports into something a
+Currently a student research assistant in the AI group of the radiology department
+at Heidelberg University Hospital, where local language models turn radiology reports into something a
 patient can read, and I turn what the radiologists want into something a model
 can run. Co-founder of [KreuzHub](https://kreuzhub.de), so that some four
 thousand medical students in Heidelberg can get past exam questions wrong in a
@@ -33,3 +33,4 @@ My mail servers for AI assistants cannot send mail. That is the feature.
 | AI tooling | Claude Code, MCP servers, agentic workflows, prompt design |
 
 A proper website is coming to davidvinu.de. Until then, this page is the website.
+Mail: me@davidvinu.de
