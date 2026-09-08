@@ -1,13 +1,35 @@
 # David Vinu
 
-Medical student at Heidelberg University. I build small tools that solve one
-problem well, mostly for myself and the people around me.
+Medical student at Heidelberg University. By day I learn how the body works.
+By night I teach computers to be useful to the people who treat it.
 
-- [gmail-mcp](https://github.com/DavidVinu/gmail-mcp) and
-  [protonmail-mcp](https://github.com/DavidVinu/protonmail-mcp): MCP servers that
-  give an AI assistant read and draft access to mail. Sending and deleting are
-  impossible by construction, not by policy.
-- [uni-vpn](https://github.com/DavidVinu/uni-vpn): the university VPN only for
-  the domains that need it. No root, no system routes, works on Linux and macOS.
-- [studienstart-faq](https://github.com/DavidVinu/studienstart-faq): a static FAQ
-  site for first-year medical students in Heidelberg.
+Currently a student research assistant in the AI group of a university radiology
+department, where local language models turn radiology reports into something a
+patient can read, and I turn what the radiologists want into something a model
+can run. Co-founder of [KreuzHub](https://kreuzhub.de), so that some four
+thousand medical students in Heidelberg can get past exam questions wrong in a
+much nicer interface.
+
+Before medicine there were computer science competitions (two first prizes at
+the Bundeswettbewerb Informatik, which I mention because my mother would) and a
+startup pitch that made the national top 30 of Jugend gründet. Since then: a
+scholarship from the Studienstiftung, a big band, a puzzle club, Swedish lessons
+for no medically justifiable reason, and a Latinum that has been useful exactly
+once, in anatomy, every single day.
+
+I like tools that solve one problem completely and refuse to do anything else.
+My mail servers for AI assistants cannot send mail. That is the feature.
+
+## Toolbox
+
+| | |
+|---|---|
+| Languages | TypeScript, JavaScript, Python, SQL, Java, Bash, PHP, HTML, CSS and SCSS, LaTeX |
+| Frontend | React, Vue 3, Nuxt, Next.js, Vite, Tailwind CSS, Pinia, Radix UI, Nuxt UI, MDX, Canvas API, service workers and PWAs, Web Audio |
+| Backend | Node.js, Bun, Elysia, FastAPI, Prisma, Knex, SQLAlchemy, Alembic, Zod, Pydantic, PostgreSQL, MySQL, WebSockets, OAuth 2.0, OpenTelemetry, Model Context Protocol |
+| Data and ML | pandas, NumPy, OpenCV, Pillow, PyMuPDF, BeautifulSoup, pyarrow, Streamlit, local LLMs, Anthropic and OpenAI APIs |
+| Infrastructure | Linux, macOS, Docker and Compose, Nginx, Cloudflare Workers, Pages and Durable Objects, Terraform, GitHub Actions, systemd, launchd, restic, Hetzner, OpenConnect and SOCKS5 |
+| Testing and tooling | Vitest, Playwright, Testing Library, unittest, oxlint, ESLint, Biome, strict TypeScript, Make, Git |
+| AI tooling | Claude Code, MCP servers, agentic workflows, prompt design |
+
+A proper website is coming to davidvinu.de. Until then, this page is the website.
