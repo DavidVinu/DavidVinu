@@ -1,23 +1,13 @@
 # David Vinu
 
-Medical student at Heidelberg University. By day I learn how the body works.
-By night I teach computers to be useful to the people who treat it.
+Medical student at Heidelberg University.
 
 Currently a student research assistant in the AI group of the radiology department
 at Heidelberg University Hospital, where local language models turn radiology reports into something a
-patient can read, and I turn what the radiologists want into something a model
-can run. Co-founder of [KreuzHub](https://kreuzhub.de), so that some four
+patient can read. Co-founder of [KreuzHub](https://kreuzhub.de), so that some four
 thousand medical students in Heidelberg can get past exam questions wrong in a
 much nicer interface.
 
-Before medicine there were computer science competitions (two first prizes at
-the Bundeswettbewerb Informatik, which I mention because my mother would) and a
-startup pitch that made the national top 30 of Jugend gründet. Since then: a
-scholarship from the Studienstiftung, a big band, a puzzle club, Swedish lessons
-for no medically justifiable reason, and a Latinum that has been useful exactly
-once, in anatomy, every single day.
-
-I like tools that solve one problem completely and refuse to do anything else.
 My mail servers for AI assistants cannot send mail. That is the feature.
 
 ## Toolbox
