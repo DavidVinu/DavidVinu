@@ -19,6 +19,5 @@ My mail servers for AI assistants cannot send mail. That is the feature.
 | Backend and data | <img src="https://skillicons.dev/icons?i=nodejs,bun,elysia,fastapi,prisma,postgres,mysql,opencv" alt="Node.js, Bun, Elysia, FastAPI, Prisma, PostgreSQL, MySQL, OpenCV" /> |
 | Infrastructure and tooling | <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,docker,nginx,cloudflare,workers,terraform,githubactions,git,vitest" alt="Linux, Ubuntu, macOS, Docker, Nginx, Cloudflare, Cloudflare Workers, Terraform, GitHub Actions, Git, Vitest" /> |
 
-No logo, still in daily use: Radix UI, Zod, Pydantic, Alembic, Knex, SQLAlchemy,
-OpenTelemetry, Playwright, Testing Library, pandas, NumPy, Streamlit, restic, systemd,
-launchd, and the Model Context Protocol.
+No logo, still in daily use: Radix UI, Zod, Pydantic, SQLAlchemy, OpenTelemetry,
+Playwright, Testing Library, pandas, NumPy, Streamlit, and the Model Context Protocol.
