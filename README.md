@@ -21,6 +21,3 @@ My mail servers for AI assistants cannot send mail. That is the feature.
 | Infrastructure | Linux, macOS, Docker and Compose, Nginx, Cloudflare Workers, Pages and Durable Objects, Terraform, GitHub Actions, systemd, launchd, restic, Hetzner, OpenConnect and SOCKS5 |
 | Testing and tooling | Vitest, Playwright, Testing Library, unittest, oxlint, ESLint, Biome, strict TypeScript, Make, Git |
 | AI tooling | Claude Code, MCP servers, agentic workflows, prompt design |
-
-Website: [davidvinu.de](https://davidvinu.de)
-Mail: me@davidvinu.de
