@@ -2,9 +2,11 @@
 
 MD student at Heidelberg University.
 
-Currently a student research assistant in the AI group of the radiology department
+Currently a student research assistant in the radiology department
 at Heidelberg University Hospital, where local language models turn radiology reports into something a
-patient can read. Co-founder of [KreuzHub](https://kreuzhub.de), so that some four
+patient can read. 
+
+Co-founder of [KreuzHub](https://kreuzhub.de), so that some four
 thousand medical students in Heidelberg can get past exam questions wrong in a
 much nicer interface.
 
