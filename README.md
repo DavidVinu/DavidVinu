@@ -14,9 +14,11 @@ My mail servers for AI assistants cannot send mail. That is the feature.
 
 | | |
 |---|---|
-| Languages | TypeScript, JavaScript, Python, SQL, Java, Bash, PHP, HTML, CSS and SCSS, LaTeX |
-| Frontend | React, Vue 3, Nuxt, Next.js, Vite, Tailwind CSS, Pinia, Radix UI, Nuxt UI, MDX, Canvas API, service workers and PWAs, Web Audio |
-| Backend | Node.js, Bun, Elysia, FastAPI, Prisma, Knex, SQLAlchemy, Alembic, Zod, Pydantic, PostgreSQL, MySQL, WebSockets, OAuth 2.0, OpenTelemetry, Model Context Protocol |
-| Data and ML | pandas, NumPy, OpenCV, Pillow, PyMuPDF, BeautifulSoup, pyarrow, Streamlit, local LLMs, Anthropic and OpenAI APIs |
-| Infrastructure | Linux, macOS, Docker and Compose, Nginx, Cloudflare Workers, Pages and Durable Objects, Terraform, GitHub Actions, systemd, launchd, restic, Hetzner, OpenConnect and SOCKS5 |
-| Testing and tooling | Vitest, Playwright, Testing Library, unittest, oxlint, ESLint, Biome, strict TypeScript, Make, Git |
+| Languages | <img src="https://skillicons.dev/icons?i=ts,js,py,java,bash,php,html,css,sass,latex" alt="TypeScript, JavaScript, Python, Java, Bash, PHP, HTML, CSS, Sass, LaTeX" /> |
+| Frontend | <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,nextjs,vite,tailwind,pinia" alt="React, Vue, Nuxt, Next.js, Vite, Tailwind CSS, Pinia" /> |
+| Backend and data | <img src="https://skillicons.dev/icons?i=nodejs,bun,elysia,fastapi,prisma,postgres,mysql,opencv" alt="Node.js, Bun, Elysia, FastAPI, Prisma, PostgreSQL, MySQL, OpenCV" /> |
+| Infrastructure and tooling | <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,docker,nginx,cloudflare,workers,terraform,githubactions,git,vitest" alt="Linux, Ubuntu, macOS, Docker, Nginx, Cloudflare, Cloudflare Workers, Terraform, GitHub Actions, Git, Vitest" /> |
+
+No logo, still in daily use: Radix UI, Zod, Pydantic, Alembic, Knex, SQLAlchemy,
+OpenTelemetry, Playwright, Testing Library, pandas, NumPy, Streamlit, restic, systemd,
+launchd, and the Model Context Protocol.
