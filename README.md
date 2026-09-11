@@ -1,6 +1,6 @@
 # David Vinu
 
-Medical student at Heidelberg University.
+MD student at Heidelberg University.
 
 Currently a student research assistant in the AI group of the radiology department
 at Heidelberg University Hospital, where local language models turn radiology reports into something a
