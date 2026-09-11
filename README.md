@@ -3,7 +3,7 @@
 MD student at Heidelberg University.
 
 Currently a student research assistant in the [radiology department
-at Heidelberg University Hospital]([url](https://www.klinikum.uni-heidelberg.de/kliniken-institute/kliniken/diagnostische-und-interventionelle-radiologie/klinik-fuer-diagnostische-und-interventionelle-radiologie/)), where local language models turn radiology reports into something a
+at Heidelberg University Hospital](https://www.klinikum.uni-heidelberg.de/kliniken-institute/kliniken/diagnostische-und-interventionelle-radiologie/klinik-fuer-diagnostische-und-interventionelle-radiologie), where local language models turn radiology reports into something a
 patient can read. 
 
 Co-founder of [KreuzHub](https://kreuzhub.de), so that some four
