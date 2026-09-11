@@ -32,5 +32,5 @@ My mail servers for AI assistants cannot send mail. That is the feature.
 | Testing and tooling | Vitest, Playwright, Testing Library, unittest, oxlint, ESLint, Biome, strict TypeScript, Make, Git |
 | AI tooling | Claude Code, MCP servers, agentic workflows, prompt design |
 
-A proper website is coming to davidvinu.de. Until then, this page is the website.
+Website: [davidvinu.de](https://davidvinu.de)
 Mail: me@davidvinu.de
