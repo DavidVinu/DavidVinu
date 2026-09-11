@@ -6,7 +6,7 @@ Currently a student research assistant in the [radiology department](https://www
 patient can read. 
 
 Co-founder of [KreuzHub](https://kreuzhub.de), so that some four
-thousand medical students in Heidelberg can get past exam questions wrong in a
+thousand medical students in Heidelberg will be able to get past exam questions wrong in a
 much nicer interface.
 
 My mail servers for AI assistants cannot send mail. That is the feature.
